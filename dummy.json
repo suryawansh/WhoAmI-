@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "name": "Harry Kane",
+  "goals": 372,
+  "assists": 84,
+  "trophies": [
+    {
+      "id": 1,
+      "name": "English Premier League",
+      "count": 3
+    },
+    {
+      "id": 4,
+      "name": "Bundesliga",
+      "count": 2
+    }
+  ],
+  "teammates": [
+    "Lionel Messi",
+    "Cristiano Ronaldo",
+    "Neymar",
+    "Xavi"
+  ]
+}
